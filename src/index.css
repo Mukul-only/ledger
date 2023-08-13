@@ -2,7 +2,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+input,
+textarea,
+button,
+select,
+a,
+div,
+span,
+svg {
+  -webkit-tap-highlight-color: transparent;
+}
 body {
   font-family: "REM", sans-serif;
 }

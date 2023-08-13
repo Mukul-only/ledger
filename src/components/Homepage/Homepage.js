@@ -1,3 +1,4 @@
+import AddExpense from "./Expenses/AddExpense";
 import Expenses from "./Expenses/Expenses";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
@@ -7,6 +8,7 @@ const Homepage = (props) => {
     <>
       <Navbar />
       <Expenses />
+
       <Footer />
     </>
   );

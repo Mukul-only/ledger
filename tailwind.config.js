@@ -8,6 +8,7 @@ module.exports = {
         "primary-400": "#008B8B",
         primary: "#01796F",
         "stroke-light": "#D4D4D4",
+        stroke: "#C6C6C6",
       },
     },
   },
